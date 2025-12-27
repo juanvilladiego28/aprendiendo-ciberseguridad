@@ -1,16 +1,19 @@
-## Sobre el desarrollo de los scripts
+## Relación con la preparación para OSCP
 
-Los scripts de esta carpeta han sido creados como ejercicios prácticos para
-mejorar mis habilidades en Python y automatización.
+Este script fue diseñado como parte de mi proceso de preparación a largo plazo
+para certificaciones prácticas como OSCP.
 
-Algunos fueron desarrollados desde cero y otros mejorados con apoyo de
-herramientas de IA, siempre revisando y entendiendo cada parte del código.
+El objetivo no es automatizar ataques reales, sino entrenar habilidades clave
+que se evalúan en este tipo de certificaciones, como:
 
-El objetivo es practicar:
-- estructura de programas
-- modularidad
-- lectura y escritura de archivos
-- automatización básica
-- uso responsable de librerías
+- comprensión del flujo de un programa
+- automatización básica de tareas repetitivas
+- manejo de entradas y salidas
+- análisis de resultados
+- organización de herramientas propias
+- pensamiento estructurado para resolver problemas
 
-No están diseñados para uso malicioso ni explotación real.
+La idea es contar con una base reutilizable que pueda adaptarse a distintos
+ejercicios de laboratorio y escenarios controlados, similares a los que se
+encuentran durante la preparación para OSCP.
+
